@@ -1,0 +1,29 @@
+# 日志文件
+*.log
+migration.log
+error.log
+
+# 临时文件
+*.git/
+temp/
+
+# 配置文件（包含敏感信息）
+config.json
+
+# PowerShell 临时文件
+*.ps1xml
+*.psm1
+*.psd1
+*.ps1~
+*.ps1.bak
+
+# Windows 系统文件
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.swp
+*.swo 

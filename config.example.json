@@ -1,0 +1,15 @@
+{
+    "old_gitlab": {
+        "url": "https://old-gitlab.example.com",
+        "group_path": "source-group",
+        "token": "your-old-gitlab-token"
+    },
+    "new_gitlab": {
+        "url": "https://new-gitlab.example.com",
+        "group_path": "target-group",
+        "token": "your-new-gitlab-token"
+    },
+    "skip_repos": [
+        "repository-to-skip"
+    ]
+} 

@@ -1,0 +1,172 @@
+[
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/zhcg/zhcg-big-data-vue.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:34"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/data-platform.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:35"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/jbqscjdgljqyjzjgxt/vue-zenith-jbsa-cjst.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:38"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/InternetRegulation/tsjb-parent.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:40"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/cqrlsbj/vue-zenith-social-security.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:41"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/screen-management.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:43"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/frk/vue-zenith-lp.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:45"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/vue-zenith-dp.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:46"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/data-domestic.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:47"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/ybqsnszzx/data-domestic.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:49"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/data-platform-vue.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:50"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/cqssthjj/data-domestic.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:51"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/MechanismBigDataApplication/vue-zenith-ca.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:53"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/zhcg/zhcg-big-data.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:55"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/MechanismBigDataApplication/springboot-edse.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:56"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/jbqscjdgljqyjzjgxt/vue-zenith-jbsa.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:48:58"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/jbqscjdgljqyjzjgxt/data-domestic.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:00"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/zhcg/ucd-vue-pro-max.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:03"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/MechanismBigDataApplication/springboot-ca.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:05"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/ybqsnszzx/vue-zenith-portal.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:07"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/MechanismBigDataApplication/vue-zenith-edse.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:08"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/zhcg/vue-zenith-datacube.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:10"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/frk/microservice-data.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:12"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/zhcg/vue-zenith-das.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:13"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/jbqscjdgljqyjzjgxt/microservice-jbsa.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:15"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/ybqsnszzx/vue-zenith-ybnw.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:16"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/zhcg/zhcg-app.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:17"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/ybqnw/nwybbigscreen.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:18"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/website-caeri/website-html.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:20"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/gateway/microservice-gateway.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:21"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/frk/vue-zenith-base.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:23"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/vue-chouyang.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:23"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/gateway/vue-zenith-gateway.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:25"
+  },
+  {
+    "Repository": "http://gitlab.zt.com.cn:28080/BigData/cqssthjj/hbvue.git",
+    "Status": "已迁移",
+    "LastUpdate": "2025-05-22 11:49:26"
+  }
+]
