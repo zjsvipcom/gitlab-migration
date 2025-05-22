@@ -15,7 +15,7 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/your-username/gitlab-migration.git
+   git clone https://github.com/zjsvipcom/gitlab-migration.git
    cd gitlab-migration
    ```
 
